@@ -7,7 +7,7 @@ Este es un scraper de Google Scholar escrito en Python que te permite buscar y e
 1. Clona este repositorio en tu máquina local:
 
 ```bash
-git clone https://github.com/giovanni-pe/laughing-potato.git
+git clone https://github.com/giovanni-pe/scrape_google_scholar.git
 Navega hasta el directorio del proyecto:
 bash
 Copy code
