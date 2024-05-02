@@ -8,25 +8,29 @@ Este es un scraper de Google Scholar escrito en Python que te permite buscar y e
 
 ```bash
 git clone https://github.com/giovanni-pe/scrape_google_scholar.git
+```
 Navega hasta el directorio del proyecto:
-bash
-Copy code
 cd google-scholar-scraper
 Instala las dependencias necesarias:
-bash
-Copy code
+```bash
 pip install -r requirements.txt
-🛠️ Requisitos
+```
+## 🛠️ Requisitos
 Python 3.x
 requests
 BeautifulSoup
 openpyxl
-⚙️ Uso
+
+##⚙️ Uso
 Ejecuta el script main.py:
+```bash
 python main.py
+```
 Sigue las instrucciones en la terminal para ingresar el nombre del autor y el número de páginas que deseas buscar en Google Scholar.
-✨ Funcionalidades
+
+## ✨ Funcionalidades
 Busca en Google Scholar usando el nombre del autor.
 Extrae información relevante de los resultados de búsqueda, como título, autores, fecha de publicación, enlace, resumen, número de citas y tipo de documento.
-🤝 Contribuciones
+
+###🤝 Contribuciones
 Las contribuciones son bienvenidas. Si encuentras algún error o tienes una idea de mejora, por favor abre un nuevo issue o envía un pull request.
